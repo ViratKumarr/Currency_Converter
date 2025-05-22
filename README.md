@@ -9,7 +9,7 @@ Virat Kumar
 - - -
 ## 📷 Screenshot  
 Here's what the currency converter looks like:  
-![Currency Converter Screenshot](https://raw.githubusercontent.com/ViratKumarr/Currency_Converter/main/screenshot.png)
+![Currency Converter Screenshot](https://github.com/ViratKumarr/Currency_Converter/blob/92425b45153f5ae0ba82838051f99b09e6f6f42f/currency_converter.png)
 
 - - -
 ## ✨ Features
