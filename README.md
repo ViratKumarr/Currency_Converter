@@ -1,57 +1,93 @@
-# 💱💵 Currency Converter App
+# �� Personal Portfolio Website
 
-A clean and simple Currency Converter web app built using HTML, CSS, and JavaScript, allowing users to convert amounts between different global currencies in real-time.
+A modern, responsive personal portfolio website showcasing my skills, projects, and professional journey as a Computer Science and Engineering student. Built with HTML, CSS, and JavaScript.
 
 - - -
-## 👨‍💻 Developed by  
+## ��‍💻 Developed by  
 Virat Kumar
 
 - - -
 ## 📷 Screenshot  
-Here's what the converter looks like:  
-![Currency Converter Screenshot](https://github.com/ViratKumarr/Currency_Converter/blob/311a5ea2038b1d6e4406bc76561e2e118f8b8b6b/Untitled%20design%20(6).png)
+Here's what the portfolio looks like:  
+![Portfolio Screenshot](https://raw.githubusercontent.com/ViratKumarr/portfolio-responsive-complete-main/master/assets/img/about.jpg)
 
 - - -
 ## 💡 Features
 
-🔁 Convert between 100+ international currencies
+🎯 Responsive design that works on all devices
 
-🌐 Uses live exchange rates via an API
+✨ Modern UI with smooth animations and transitions
 
-💰 User-friendly interface with dropdowns for selecting currencies
+🎨 Clean and professional design
 
-🚀 Instant conversion result on input
+📊 Visual representation of technical and soft skills
 
-🎨 Stylish, responsive design using modern CSS
+💼 Dedicated project showcase section
 
-📱 Fully compatible with mobile and desktop browsers
+🔗 Easy access to professional social profiles
+
+📝 Built-in contact form for opportunities
+
+- - -
+## ��️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Boxicons for icons
+- Google Fonts
+- ScrollReveal.js for animations
 
 - - -
 ## 📁 Project Structure
 
-Currency_Converter/  
+portfolio-responsive-complete-main/  
 │  
-├── index.html      # HTML layout for the converter  
-├── style.css       # Styling and design  
-├── script.js       # Currency conversion logic  
-└── assets/         # Images and icons (if any)
+├── index.html          # Main HTML file  
+├── assets/  
+│   ├── css/           # Stylesheets  
+│   │   └── styles.css  
+│   ├── js/            # JavaScript files  
+│   │   └── main.js  
+│   └── img/           # Images and icons  
+└── .gitattributes     # Git language configuration
 
 - - -
 ## 🚀 How to Run
 
 1: Clone the repository:
 ```bash
-git clone https://github.com/ViratKumarr/Currency_Converter.git
+git clone https://github.com/ViratKumarr/portfolio-responsive-complete-main.git
 ```
 
 2: Navigate to the project folder:
 ```bash
-cd Currency_Converter
+cd portfolio-responsive-complete-main
 ```
+
 3: Open the index.html file in any modern browser.
 
-4: Start converting currencies instantly!
+4: Explore the portfolio!
 
-- - - 
-📃 License
+- - -
+## 🔗 Social Links
+
+- [LinkedIn](https://www.linkedin.com/in/virat-kumar-b0b57024a/)
+- [GitHub](https://github.com/ViratKumarr)
+- [Twitter](https://x.com/___ViRaT____)
+- [Instagram](https://www.instagram.com/___virat_chaudhary___)
+
+- - -
+## 📝 License
 This project is open-source and available under the MIT License.
+
+- - -
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/ViratKumarr/portfolio-responsive-complete-main/issues).
+
+- - -
+## ⭐ Show your support
+Give a ⭐️ if you like this project!
+
+---
+Made with ❤️ by Virat Kumar
