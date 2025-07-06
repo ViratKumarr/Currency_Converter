@@ -1,3 +1,7 @@
+<p align="left">
+  © Virat Kumar 2025 | Built with ❤️
+</p>
+
 # 💱 Currency Converter
 
 A sleek and responsive currency converter web application that allows users to convert between different currencies in real-time. Built with HTML, CSS, and JavaScript, featuring a modern UI and real-time exchange rates.
