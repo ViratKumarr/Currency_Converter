@@ -1,6 +1,4 @@
-<p align="right">
-  © Virat Kumar 2025 | Built with ❤️
-</p>
+
 
 # 💱 Currency Converter
 
